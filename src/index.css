@@ -15,7 +15,7 @@
   font-family: "Amiamie";
   src: url("/fonts/otf/Amiamie-Italic.otf") format("opentype"),
     url("/fonts/ttf/Amiamie-Italic.ttf") format("truetype");
-  font-weight: 400;
+  font-weight: 401;
   font-style: italic;
   font-display: swap;
 }
