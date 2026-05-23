@@ -58,7 +58,7 @@ export const ServiceSummary = () => {
       <p>Databases</p>
     </div>
     </section>
-    <div></div>
+    
   )
 }
  export default ServiceSummary; 
