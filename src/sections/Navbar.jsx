@@ -70,7 +70,7 @@ const Navbar = () => {
     iconTl.current = gsap
       .timeline({ paused: true })
       .to(topLineRef.current, {
-        rotate: 45,
+        rotate: 44,
         y: 3.3,
         duration: 0.3,
         ease: "power2.inOut",
@@ -78,7 +78,7 @@ const Navbar = () => {
       .to(
         bottomLineRef.current,
         {
-          rotate: -45,
+          rotate: -44,
           y: -3.3,
           duration: 0.3,
           ease: "power2.inOut",
